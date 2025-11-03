@@ -2078,6 +2078,7 @@ body {
   background-color: #fff0;
   border-radius: 0%;
   max-width: 58%;
+  max-height: fit-content;
 }
 .home-text {
   color: var(--grey);
